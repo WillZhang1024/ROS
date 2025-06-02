@@ -1,0 +1,5 @@
+int32 target_number
+---
+int32 total_time
+---
+int32 current_time
